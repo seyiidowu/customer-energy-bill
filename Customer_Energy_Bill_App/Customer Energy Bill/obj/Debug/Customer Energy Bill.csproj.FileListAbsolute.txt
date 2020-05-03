@@ -1,0 +1,10 @@
+C:\Users\Seyi\source\repos\Customer Energy Bill App\Customer Energy Bill\obj\Debug\Customer Energy Bill.csprojAssemblyReference.cache
+C:\Users\Seyi\source\repos\Customer Energy Bill App\Customer Energy Bill\obj\Debug\Customer_Energy_Bill.frmCalculateEnergyBill.resources
+C:\Users\Seyi\source\repos\Customer Energy Bill App\Customer Energy Bill\obj\Debug\Customer_Energy_Bill.Properties.Resources.resources
+C:\Users\Seyi\source\repos\Customer Energy Bill App\Customer Energy Bill\obj\Debug\Customer Energy Bill.csproj.GenerateResource.cache
+C:\Users\Seyi\source\repos\Customer Energy Bill App\Customer Energy Bill\obj\Debug\Customer Energy Bill.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\source\repos\Customer Energy Bill App\Customer Energy Bill\bin\Debug\Customer Energy Bill.exe.config
+C:\Users\Seyi\source\repos\Customer Energy Bill App\Customer Energy Bill\bin\Debug\Customer Energy Bill.exe
+C:\Users\Seyi\source\repos\Customer Energy Bill App\Customer Energy Bill\bin\Debug\Customer Energy Bill.pdb
+C:\Users\Seyi\source\repos\Customer Energy Bill App\Customer Energy Bill\obj\Debug\Customer Energy Bill.exe
+C:\Users\Seyi\source\repos\Customer Energy Bill App\Customer Energy Bill\obj\Debug\Customer Energy Bill.pdb
